@@ -1,0 +1,13 @@
+package com.ishan.springRabbitMQ;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringRabbitMqApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringRabbitMqApplication.class, args);
+	}
+
+}
